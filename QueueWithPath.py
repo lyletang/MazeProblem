@@ -1,4 +1,4 @@
-# Describe: Search a maze using a queue (recording the path precedent relation)
+# Describe: Search a maze using a queue (recording the path precedent relation) (Breadth-first traversal)
 # Author: Jiahui Tang
 # Date: 2017-1-3
 
