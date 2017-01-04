@@ -1,4 +1,4 @@
-# Describe: Search a maze using a queue (No path record)
+# Describe: Search a maze using a queue (No path record) (Breadth-first traversal)
 # Author: Jiahui Tang
 # Date: 2017-1-3
 
