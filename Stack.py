@@ -1,4 +1,4 @@
-# Describe: A maze path finder which use a stack storage
+# Describe: A maze path finder which use a stack storage (Depth-first traversal)
 # Author: Jiahui Tang
 # Date: 2017-1-3
 
